@@ -1,8 +1,8 @@
-global.bankname = "MONIEPOINT"
+global.bankname = "SMART CASH PSB"
 
-global.banknumber = "8133729715"
+global.banknumber = "8124163809"
 
-global.bankowner = "FADARE"
+global.bankowner = "OLUCHUKWU CHRISTIANA OPARAJI"
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
